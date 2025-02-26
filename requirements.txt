@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio>=5.10
+python-dotenv
+langchain
+langchain_core
+langchain_groq
+langgraph
